@@ -3,9 +3,9 @@
 class Post{
 
   final int userID;
-  final int id;
+  final int iAd;
   final String title;
   final String body;
 
-  Post(this.userID, this.id, this.title, this.body);
+  Post(this.userID, this.iAd, this.title, this.body);
 }
